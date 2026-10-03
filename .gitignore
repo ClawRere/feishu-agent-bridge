@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.log
+mention_queue.jsonl
+*_heartbeat.txt
+.DS_Store
+venv/
